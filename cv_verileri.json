@@ -1,0 +1,242 @@
+[
+    {
+        "ad": "Ahmet Yılmaz",
+        "yas": 28,
+        "lokasyon": "İstanbul",
+        "mezuniyet": {
+            "derece": "Lisans",
+            "bolum": "Yazılım Mühendisliği",
+            "universite": "İTÜ"
+        },
+        "deneyim_yili": 3,
+        "programlama_dilleri": ["Python", "JavaScript", "SQL"],
+        "yabanci_diller": ["İngilizce"],
+        "sertifikalar": ["AWS Certified", "Google Data Analytics"],
+        "pozisyon_tercihi": "Frontend Developer"
+    },
+    {
+        "ad": "Zeynep Demir",
+        "yas": 25,
+        "lokasyon": "Ankara",
+        "mezuniyet": {
+            "derece": "Yüksek Lisans",
+            "bolum": "Yönetim Bilişim Sistemleri",
+            "universite": "ODTÜ"
+        },
+        "deneyim_yili": 2,
+        "programlama_dilleri": ["Python", "C++"],
+        "yabanci_diller": ["İngilizce", "Almanca"],
+        "sertifikalar": ["Microsoft Azure Fundamentals"],
+        "pozisyon_tercihi": "Data Analyst"
+    },
+    {
+        "ad": "Mehmet Kaya",
+        "yas": 32,
+        "lokasyon": "İzmir",
+        "mezuniyet": {
+            "derece": "Lisans",
+            "bolum": "Yazılım Mühendisliği",
+            "universite": "Ege Üniversitesi"
+        },
+        "deneyim_yili": 6,
+        "programlama_dilleri": ["Java", "Python"],
+        "yabanci_diller": ["İngilizce"],
+        "sertifikalar": ["Oracle Certified"],
+        "pozisyon_tercihi": "Full-Stack Developer"
+    },
+    {
+        "ad": "Ali Can",
+        "yas": 30,
+        "lokasyon": "Bursa",
+        "mezuniyet": {
+            "derece": "Lisans",
+            "bolum": "bilgisayar Mühendisliği",
+            "universite": "Koç Üniversitesi"
+        },
+        "deneyim_yili": 5,
+        "programlama_dilleri": ["JavaScript", "CSS", "HTML"],
+        "yabanci_diller": ["İngilizce"],
+        "sertifikalar": ["Google Cloud Certified"],
+        "pozisyon_tercihi": "Frontend Developer"
+    },
+    {
+        "ad": "Ayşe Kılıç",
+        "yas": 27,
+        "lokasyon": "Eskişehir",
+        "mezuniyet": {
+            "derece": "Lisans",
+            "bolum": "Yazılım Mühendisliği",
+            "universite": "Anadolu Üniversitesi"
+        },
+        "deneyim_yili": 4,
+        "programlama_dilleri": ["Java", "HTML", "CSS"],
+        "yabanci_diller": ["İngilizce"],
+        "sertifikalar": ["AWS Certified"],
+        "pozisyon_tercihi": "Frontend Developer"
+    },
+    {
+        "ad": "Fatma Yıldız",
+        "yas": 29,
+        "lokasyon": "İstanbul",
+        "mezuniyet": {
+            "derece": "Yüksek Lisans",
+            "bolum": "Yönetim Bilişim Sistemleri",
+            "universite": "İstanbul Üniversitesi"
+        },
+        "deneyim_yili": 7,
+        "programlama_dilleri": ["JavaScript", "Node.js", "HTML"],
+        "yabanci_diller": ["İngilizce"],
+        "sertifikalar": ["Microsoft Certified"],
+        "pozisyon_tercihi": "Frontend Developer"
+    },
+    {
+        "ad": "Kemal Dönmez",
+        "yas": 26,
+        "lokasyon": "Antalya",
+        "mezuniyet": {
+            "derece": "Lisans",
+            "bolum": "Yazılım Mühendisliği",
+            "universite": "Akdeniz Üniversitesi"
+        },
+        "deneyim_yili": 3,
+        "programlama_dilleri": ["Java", "JavaScript"],
+        "yabanci_diller": ["İngilizce"],
+        "sertifikalar": ["Java SE 8 Certified"],
+        "pozisyon_tercihi": "Backend Developer"
+    },
+    {
+        "ad": "Murat Özdemir",
+        "yas": 35,
+        "lokasyon": "İzmir",
+        "mezuniyet": {
+            "derece": "Lisans",
+            "bolum": "Yazılım Mühendisliği",
+            "universite": "Dokuz Eylül Üniversitesi"
+        },
+        "deneyim_yili": 8,
+        "programlama_dilleri": ["C#", "JavaScript", "Node.js"],
+        "yabanci_diller": ["İngilizce"],
+        "sertifikalar": ["Oracle Certified Professional"],
+        "pozisyon_tercihi": "Full-Stack Developer"
+    },
+    {
+        "ad": "Özge Kara",
+        "yas": 24,
+        "lokasyon": "Konya",
+        "mezuniyet": {
+            "derece": "Lisans",
+            "bolum": "Yazılım Mühendisliği",
+            "universite": "Selçuk Üniversitesi"
+        },
+        "deneyim_yili": 2,
+        "programlama_dilleri": ["HTML", "CSS", "JavaScript"],
+        "yabanci_diller": ["İngilizce"],
+        "sertifikalar": ["Frontend Web Developer", "AWS Certified"],
+        "pozisyon_tercihi": "Frontend Developer"
+    },
+    {
+        "ad": "Merve Tunç",
+        "yas": 26,
+        "lokasyon": "Samsun",
+        "mezuniyet": {
+            "derece": "Lisans",
+            "bolum": "Yazılım Mühendisliği",
+            "universite": "Ondokuz Mayıs Üniversitesi"
+        },
+        "deneyim_yili": 3,
+        "programlama_dilleri": ["C#", "HTML", "CSS"],
+        "yabanci_diller": ["İngilizce"],
+        "sertifikalar": ["AWS Certified"],
+        "pozisyon_tercihi": "Frontend Developer"
+    },
+    {
+        "ad": "Hasan Gül",
+        "yas": 28,
+        "lokasyon": "Gaziantep",
+        "mezuniyet": {
+            "derece": "Yüksek Lisans",
+            "bolum": "Yönetim Bilişim Sistemleri",
+            "universite": "Gaziantep Üniversitesi"
+        },
+        "deneyim_yili": 4,
+        "programlama_dilleri": ["Java", "JavaScript"],
+        "yabanci_diller": ["İngilizce"],
+        "sertifikalar": ["Google Cloud Certified"],
+        "pozisyon_tercihi": "Backend Developer"
+    },
+    {
+        "ad": "Selin Acar",
+        "yas": 31,
+        "lokasyon": "Kayseri",
+        "mezuniyet": {
+            "derece": "Lisans",
+            "bolum": "Yazılım Mühendisliği",
+            "universite": "Erciyes Üniversitesi"
+        },
+        "deneyim_yili": 6,
+        "programlama_dilleri": ["Python", "JavaScript", "Node.js"],
+        "yabanci_diller": ["İngilizce"],
+        "sertifikalar": ["Python Developer Certified"],
+        "pozisyon_tercihi": "Full-Stack Developer"
+    },
+    {
+        "ad": "Mehmet Yılmaz",
+        "yas": 27,
+        "lokasyon": "Kocaeli",
+        "mezuniyet": {
+            "derece": "Lisans",
+            "bolum": "Yazılım Mühendisliği",
+            "universite": "Kocaeli Üniversitesi"
+        },
+        "deneyim_yili": 3,
+        "programlama_dilleri": ["C++", "Python", "JavaScript"],
+        "yabanci_diller": ["İngilizce"],
+        "sertifikalar": ["Google Cloud Certified"],
+        "pozisyon_tercihi": "Backend Developer"
+    },
+    {
+        "ad": "Burak Arslan",
+        "yas": 34,
+        "lokasyon": "Tekirdağ",
+        "mezuniyet": {
+            "derece": "Lisans",
+            "bolum": "Yazılım Mühendisliği",
+            "universite": "Trakya Üniversitesi"
+        },
+        "deneyim_yili": 7,
+        "programlama_dilleri": ["Java", "JavaScript", "Node.js"],
+        "yabanci_diller": ["İngilizce"],
+        "sertifikalar": ["AWS Certified", "Oracle Certified Professional"],
+        "pozisyon_tercihi": "Full-Stack Developer"
+    },
+    {
+        "ad": "Ayhan Şahin",
+        "yas": 29,
+        "lokasyon": "Sakarya",
+        "mezuniyet": {
+            "derece": "Lisans",
+            "bolum": "Yazılım Mühendisliği",
+            "universite": "Sakarya Üniversitesi"
+        },
+        "deneyim_yili": 5,
+        "programlama_dilleri": ["Python", "HTML", "CSS"],
+        "yabanci_diller": ["İngilizce"],
+        "sertifikalar": ["Google Cloud Certified"],
+        "pozisyon_tercihi": "Frontend Developer"
+    },
+    {
+        "ad": "Deniz Öz",
+        "yas": 32,
+        "lokasyon": "Adana",
+        "mezuniyet": {
+            "derece": "Lisans",
+            "bolum": "Yazılım Mühendisliği",
+            "universite": "Çukurova Üniversitesi"
+        },
+        "deneyim_yili": 6,
+        "programlama_dilleri": ["JavaScript", "Node.js"],
+        "yabanci_diller": ["İngilizce"],
+        "sertifikalar": ["AWS Certified", "Microsoft Certified"],
+        "pozisyon_tercihi": "Full-Stack Developer"
+    }
+]
